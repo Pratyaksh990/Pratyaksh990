@@ -1,6 +1,8 @@
 ### Hi there 👋
 # 💫 About Me:
 🔭 Hi there, I'm Pratyaksh!<br>👯 I’m looking to collaborate on Computer Vision related research projects<br>AI applications in various domains<br>Data Science projects involving statistical modeling and data visualization<br><br>🌱 I’m currently learning Computer Vision, Geometric Machine Learning<br>, Group theory, and Manifold learning<br>Feel free to reach out to me if you're working on a project that aligns with my interests. Let's collaborate and learn from each other!
+<img align="right" alt="coding" width="335" src="https://mcdn.wallpapersafari.com/medium/4/18/Dkg2yH.png">
+
 
 
 ## 🌐 Socials:
