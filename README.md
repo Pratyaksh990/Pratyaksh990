@@ -15,10 +15,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pratyaksh990&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyaksh990&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=Pratyaksh990&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Pratyaksh990&label=Profile%20Views&icon=2&pretty=true" />
-</a>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pratyaksh990&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
