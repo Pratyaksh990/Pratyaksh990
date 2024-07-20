@@ -22,13 +22,15 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Pratyaksh990&label=Profile%20Views&pretty=false" />
-</a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-light.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" style="background-color: #333; filter: invert(0)">
+
+
+
 </picture>
-![snake gif](https://github.com/Pratyaksh990/Pratyaksh990/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 
